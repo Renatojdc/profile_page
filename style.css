@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+h1 { color: #d8c2c2; font-size: 49px; letter-spacing: 2px; font-family: 'Mouse Memoirs', sans-serif; }
+
+body { color: #262626;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #336699;
+  background-image: url("https://cdn.pixabay.com/photo/2020/04/15/05/21/red-5045141_1280.jpg"); }
+
+a { text-decoration: underline; color: #d8c2c2; }
+
+link { text-decoration: none; }
+
+h2 { color: #d8c2c2; font-family: 'Mouse Memoris', sans-serif;}
+
+p { color: #d8c2c2; font-family: 'Mouse Memoris', sans-serif;}
+
+li { color: #d8c2c2; font-family: 'Mouse Memoirs', sans-serif;}
+
+footer { color: #d8c2c2; font-size: 30px;}
+
+@media (max-width: 960px) { .container { width: 700px; }  }
+
+@media (max-width: 720px) { .container { width: 500px; } }
+
+@media (max-width: 540px) { .container { width: 300px; } }
